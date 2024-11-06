@@ -33,13 +33,12 @@ gcc -o product_tracker product_tracker.c
 ```
 
 ## Example Input
-2 5
-123 456 789 321 654
+![{0C08F3A2-BB8B-4472-B554-ABB677EEE5C5}](https://github.com/user-attachments/assets/43ed9e2e-4ed7-4ebc-a933-d77445f58f57)
+
 
 ## Example Output
-1 123 321 
-2 456 654 
-3 789
+![{2E535CA0-B7CB-4E00-998C-A65AF4FE3742}](https://github.com/user-attachments/assets/d01421f0-e412-40fe-b769-d37728398e73)
+
 
 # License
 This project is licensed under the MIT License.
