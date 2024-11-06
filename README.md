@@ -30,6 +30,7 @@ To compile and run the program, use:
 ```bash
 gcc -o product_tracker product_tracker.c
 ./product_tracker
+```
 
 ## Example Input
 2 5
